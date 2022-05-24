@@ -1,0 +1,19 @@
+{
+  "name": "hana_shop_micro_products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvazquez9802/Hana_Shop_Micro_Products.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvazquez9802/Hana_Shop_Micro_Products/issues"
+  },
+  "homepage": "https://github.com/jvazquez9802/Hana_Shop_Micro_Products#readme"
+}
